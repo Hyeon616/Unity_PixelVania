@@ -12,7 +12,7 @@ namespace BAEKJOON
     {
         static void Main(string[] args)
         {
-            // Hello World!를 출력하시오.
+            // 2557. Hello World!를 출력하시오.
             Console.WriteLine("Hello World!");
         }
     }
